@@ -1,5 +1,5 @@
 "use strict";
-
+"";
 const addClickEvent = (body, element) => {
   element.addEventListener("click", () => {
     say();
@@ -16,8 +16,8 @@ const setOra = () => {
 };
 
 const say = () => {
-	const audio = new Audio();
-	audio.src = `../sounds/kiritan/oracle.wav`;
-	audio.play();
-}
+  const audio = new Audio();
+  audio.src = `../sounds/kiritan/oracle.wav`;
+  audio.play();
+};
 setOra();
