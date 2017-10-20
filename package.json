@@ -1,7 +1,7 @@
 {
-  "name": "electron_readus",
+  "name": "oracle_button",
   "version": "1.0.0",
-  "description": "",
+  "description": "a",
   "main": "main.js",
   "scripts": {
     "eslint": "eslint --fix --ignore-path .eslintignore -c .eslintrc.json \"./**/*.js\"",
